@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Srikanth.Chippa\\WpfBlazor\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj": {}
+    "C:\\Users\\Srikanth.Chippa\\Source\\Repos\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Srikanth.Chippa\\WpfBlazor\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj": {
+    "C:\\Users\\Srikanth.Chippa\\Source\\Repos\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Srikanth.Chippa\\WpfBlazor\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj",
+        "projectUniqueName": "C:\\Users\\Srikanth.Chippa\\Source\\Repos\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj",
         "projectName": "DemoWebApp1980",
-        "projectPath": "C:\\Users\\Srikanth.Chippa\\WpfBlazor\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj",
+        "projectPath": "C:\\Users\\Srikanth.Chippa\\Source\\Repos\\DemoWebApp1980\\DemoWebApp1980\\DemoWebApp1980.csproj",
         "packagesPath": "C:\\Users\\Srikanth.Chippa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Srikanth.Chippa\\WpfBlazor\\DemoWebApp1980\\DemoWebApp1980\\obj\\",
+        "outputPath": "C:\\Users\\Srikanth.Chippa\\Source\\Repos\\DemoWebApp1980\\DemoWebApp1980\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
